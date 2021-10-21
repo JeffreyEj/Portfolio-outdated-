@@ -84,6 +84,70 @@ body {
   margin-top: 5rem;
 }
 
+/* === CV === */
+
+#cv {
+  width: 100%;
+  height: auto;
+  background-color: #3f3d56;
+
+}
+
+.col-cv {
+  text-align: center;
+}
+
+#cv-text {
+  color: #FFF;
+  font-size: 3rem;
+}
+
+#cv-text button {
+  text-align: center;
+
+}
+
+#cv > .container > .row > .col-sm-8 {
+
+  margin: 0;
+  position: relative;
+
+
+}
+
+#cv > .container > .row > .col-sm-8 > p {
+  color: #FFF;
+  position: absolute;
+  top: 12rem;
+  font-size: 3rem;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+
+#button-link {
+  text-decoration: underline;
+  position: absolute;
+  top: 20rem;
+
+}
+
+
+#downloadCV:hover {
+  background-color: #193498;
+}
+
+
+#cv > .container > .row > .col-sm-8 > button {
+  color: #FFF;
+  position: absolute;
+  top: 19rem;
+
+
+}
+
+
+
 /* === PROJECTS-SECTION === */
 
 #projects-headline {
