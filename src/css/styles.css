@@ -97,6 +97,10 @@ body {
   text-align: center;
 }
 
+.col-cv span{
+  color: black
+}
+
 #cv-text {
   color: #FFF;
   font-size: 3rem;
